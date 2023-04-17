@@ -2,6 +2,8 @@ import React, {useState} from "react";
 import "./styles.css";
 import imagens from '../imagens/instagram-logo-16.png'
 import logo from '../imagens/logo.png'
+import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 
 const LoginPage = () => {

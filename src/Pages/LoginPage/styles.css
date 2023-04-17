@@ -1,3 +1,4 @@
+
 #title {
     font-family: 'Tilt Prism', cursiva;
 }
@@ -14,7 +15,7 @@
       padding: 0.5rem;
       width: 100%;
       max-width: 480px;
-      margin-bottom: 50px;
+      margin-bottom: 0.5rem;
   }
  
   #login .field{
@@ -25,7 +26,7 @@
       display: block;
   }
   #login .field input{
-      width: 450px;
+      width: 100%;
   
   }
   #login.actions{
